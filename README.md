@@ -8,7 +8,7 @@
 # Цикломатска комплексност
 Цикломатската комплексност на овој код е 6, а ги најдов преку бројот на региони во графот.
 # Тест случаи според критериумот Every statement
-![](Images/EveryStatement.png)
+![](Images/EveryStatementImage.png)
 # Тест случаи според критериумот Every path
 ![](Images/TestCases.png)
 # Објаснување на напишаните unit tests
